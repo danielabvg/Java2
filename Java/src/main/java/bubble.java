@@ -1,4 +1,4 @@
-public class BubbleSortDemo { // Corregido: La clase ahora usa UpperCamelCase
+public class bubble { // Corregido: La clase ahora usa UpperCamelCase
 
     public static void main(String[] args) {
         int[] numeros = {5, 2, 9, 1, 5, 6};

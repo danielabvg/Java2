@@ -1,5 +1,3 @@
-public class hanoi {
-}
 public class TorresDeHanoi {
 
     // Método recursivo para resolver el problema

@@ -1,4 +1,4 @@
-public class Bubble {
+public class bubble2 {
     // Método para ordenar con Bubble Sort
     public static void bubbleSort(int[] arr) {
         int n = arr.length;
